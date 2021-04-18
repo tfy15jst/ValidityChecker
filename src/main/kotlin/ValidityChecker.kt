@@ -3,6 +3,7 @@ import java.io.File
 import java.io.InputStream
 import kotlin.collections.List
 
+//Example input testFile.txt SocialSecurityTester NotNullTester outputFile.txt
 fun main(args: Array<String>) {
     if (args.size < 3) {
         println("Too few input arguments: <testFilePath> <validityCheckName-1> ... <validityCheckName-n> <logFilePath>")
