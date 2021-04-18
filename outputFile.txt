@@ -1,0 +1,5 @@
+19780202-2389 PASSED
+19820411-2380 PASSED
+ FAILED, SocialSecurityTester: Is not a valid social security number, NotNullTester: Is Null
+19421-2465 FAILED, SocialSecurityTester: Is not a valid social security number
+19780202-2387 FAILED, SocialSecurityTester: Is not a valid social security number
